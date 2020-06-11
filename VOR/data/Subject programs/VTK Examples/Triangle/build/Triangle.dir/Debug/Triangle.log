@@ -1,0 +1,4 @@
+﻿  Building Custom Rule H:/VTK Examples/Triangle/CMakeLists.txt
+  CMake does not need to re-run because H:/VTK Examples/Triangle/build/CMakeFiles/generate.stamp is up-to-date.
+  Triangle.cxx
+  Triangle.vcxproj -> H:\VTK Examples\Triangle\build\Debug\Triangle.exe

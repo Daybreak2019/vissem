@@ -1,0 +1,4 @@
+﻿  Building Custom Rule H:/VTK Examples/GeometricObjectsDemo/CMakeLists.txt
+  CMake does not need to re-run because H:/VTK Examples/GeometricObjectsDemo/build/CMakeFiles/generate.stamp is up-to-date.
+  GeometricObjectsDemo.cxx
+  GeometricObjectsDemo.vcxproj -> H:\VTK Examples\GeometricObjectsDemo\build\Debug\GeometricObjectsDemo.exe

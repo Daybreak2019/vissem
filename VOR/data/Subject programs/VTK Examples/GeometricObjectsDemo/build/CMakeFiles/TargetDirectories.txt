@@ -1,0 +1,3 @@
+H:/VTK Examples/GeometricObjectsDemo/build/CMakeFiles/GeometricObjectsDemo.dir
+H:/VTK Examples/GeometricObjectsDemo/build/CMakeFiles/ALL_BUILD.dir
+H:/VTK Examples/GeometricObjectsDemo/build/CMakeFiles/ZERO_CHECK.dir

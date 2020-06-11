@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VOR", "VOR\VOR.pyproj", "{C01AC9D6-E33B-4D11-93D6-EEAF6D1E86CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01AC9D6-E33B-4D11-93D6-EEAF6D1E86CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01AC9D6-E33B-4D11-93D6-EEAF6D1E86CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52A2968-3007-48A0-B8B7-1AF7CBF64950}
+	EndGlobalSection
+EndGlobal

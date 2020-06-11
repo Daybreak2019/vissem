@@ -1,0 +1,4 @@
+﻿  Building Custom Rule H:/VTK Examples/Circle/CMakeLists.txt
+  CMake does not need to re-run because H:/VTK Examples/Circle/build/CMakeFiles/generate.stamp is up-to-date.
+  Circle.cxx
+  Circle.vcxproj -> H:\VTK Examples\Circle\build\Debug\Circle.exe
